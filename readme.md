@@ -6,13 +6,13 @@ Rocky.js is Pebble's JavaScript framework for building watchfaces for Pebble sma
 
 Check out the [Rocky.js guides](https://developer.pebble.com/tutorials/js-watchface-tutorial/part1/) or [Rocky.js API reference](https://developer.pebble.com/docs/rockyjs/) if you want to learn more about developing with Rocky.js.
 
-While this repository used to serve as the breeding ground for Rocky.js, it has now become the home of the [Rocky.js Playground](http://pebble.github.io/rockyjs/playground/) and the simulator library the Playground is built on.
+While this repository used to serve as the breeding ground for Rocky.js, it has now become the home of the [Rocky.js Playground](playground/) and the simulator library the Playground is built on.
 
 ## Rocky.js Playground
 
-The [Rocky.js Playground](http://pebble.github.io/rockyjs/playground/) is an in-browser "scratchpad" for Rocky.js development. It features simulated Pebble smartwatches to run your app as you develop it, all running locally in your browser:
+The [Rocky.js Playground](playground/) is an in-browser "scratchpad" for Rocky.js development. It features simulated Pebble smartwatches to run your app as you develop it, all running locally in your browser:
 
-[<img src="img/rockyjs-playground-screenshot.png" alt="Rocky.js Playground Screenshot" style="width: 850px; box-shadow: 0px 2px 5px 0px #C4C4C4; margin: 20px 0;"/>](http://pebble.github.io/rockyjs/playground/)
+[<img src="img/rockyjs-playground-screenshot.png" alt="Rocky.js Playground Screenshot" style="width: 850px; box-shadow: 0px 2px 5px 0px #C4C4C4; margin: 20px 0;"/>](playground/)
 
 ### Rocky.js Simulator
 
